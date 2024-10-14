@@ -42,9 +42,10 @@ Below is my first attempt to construct logic gates in Game of Life. (In fact, it
 
 https://github.com/user-attachments/assets/c6c94eb6-0994-40cb-8adb-2888d4432b50
 
+<br><br>
+Further on I realised Game of Life has some natural limitations of constructing a computer, including difficulties in wire crossover (there's no layer, only 2D!), criticality in position and timing (phases and periodicity matters significantly in Game of Life), as well as the maintainabiity and readability of gates. Hence I switched to a different platform "Turing Complete" logic simulator.  
 
-
-
+<br> 
 This is a project I've accomplished in a game simulator "Turing Complete". The provides logic gates simulation and timing signal. <br>
 Below is a design I created. 
 <img width="960" alt="wire spaghetti" src="https://github.com/user-attachments/assets/afb8992b-2b3e-4767-b98c-ceeed47cdb2f">
@@ -64,9 +65,20 @@ This is a group project I participated in 2023, University Microcontroller Hacka
 
 
 ### Hiking rescue model
+<img width="524" alt="截圖 2024-10-14 下午6 30 22" src="https://github.com/user-attachments/assets/c45b6754-6d93-4b72-8153-2bbddefee9d4">
+<img width="547" alt="截圖 2024-10-14 下午6 30 36" src="https://github.com/user-attachments/assets/67602c94-8096-4059-afa3-cc49fe9179ff">
 
 
 ### Image classifier
 
 
 ### Ranger project 
+![IMG_0716](https://github.com/user-attachments/assets/29c85586-9e44-4aee-9402-c6868bc42f3b)
+
+
+
+https://github.com/user-attachments/assets/9d6f4358-330f-4a60-9a39-090f86cbcba9
+
+
+
+
