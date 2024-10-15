@@ -1,16 +1,42 @@
 # Portfolio
 
+Hello ^^ <br> 
+You've found me! <br> 
+Welcome to my humble Git page. <br> 
+Would you mind me to introduce you some projects I am so passionate about? <br><br> 
+
+Lists of projects I have acheived: <br>
+[Sokoban puzzle solver](#sokoban-puzzle-solver) <br> 
+[Cartpole problem](#cartpole-problem)<br>
+[CPU design](#cpu-design)<br> 
+[Firefighter Bot](#firefighter-bot)<br>
+[Handheld educational assisting device](#handheld-educational-assisting-device) <br>
+[Hiking rescue model](#hiking-rescue-model) <br>
+[Image classifier](#image-classifier) <br>
+[Ranger project](#ranger-project) <br>
+
+<br>
+<br>
+<br>
+<br>
+
+
 
 ### Sokoban puzzle solver
 The goal for a Sokoban puzzle, is that the player will have to push all the boxes into the pits to win the level. <br> 
 This project aimed to solve the Sokoban puzzle using classical artificial intelligence approach - search algorithm. 
+In addition to the traditional Sokoban puzzle, the problem introduce **weights** for which each box may labelled with a weight hence each movement of this box will need to add the effect of the weight in the action cost. The goal of the game is to minimise the action cost.  
 
-In detail, the search algorithm used is **astar graph search**. 
+In detail, the search algorithm used is **astar graph search**. Based on the nature of the game, the player (or agent) have the information of the boxes and pits, hence making this an **informed search**. It is possible to go back to a state (i.e., have the same layouts / positions of all objects), hence **graph search** is more suitable than a **tree search**. Finally detail is that, a heuristic method is used along with priority queue in the astar search. The formula is given by shortest cost (path + weight) of each box to each pit (1 to 1 relation) + the path of the player to a nearest box (the distance is L1 - Manhattan distance).  <br><br>
+Below is a demonstraction of the astar graph search agent. 
 
 https://github.com/user-attachments/assets/abcc2545-0b7c-4138-9d36-c5f2845bd630
 
 
-
+<br>
+<br>
+<br>
+<br>
 
 
 
