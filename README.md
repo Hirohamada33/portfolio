@@ -6,14 +6,14 @@ Welcome to my humble Git page. <br>
 Would you mind me to introduce you some projects I am so passionate about? <br><br> 
 
 Lists of projects I have acheived: <br>
-[Sokoban puzzle solver](#sokoban-puzzle-solver) <br> 
-[Cartpole problem](#cartpole-problem)<br>
-[CPU design](#cpu-design)<br> 
-[Firefighter Bot](#firefighter-bot)<br>
-[Handheld educational assisting device](#handheld-educational-assisting-device) <br>
-[Hiking rescue model](#hiking-rescue-model) <br>
-[Image classifier](#image-classifier) <br>
-[Ranger project](#ranger-project) <br>
+- [Sokoban puzzle solver](#sokoban-puzzle-solver) <br> 
+- [Cartpole problem](#cartpole-problem)<br>
+- [CPU design](#cpu-design)<br> 
+- [Firefighter Bot](#firefighter-bot)<br>
+- [Handheld educational assisting device](#handheld-educational-assisting-device) <br>
+- [Hiking rescue model](#hiking-rescue-model) <br>
+- [Image classifier](#image-classifier) <br>
+- [Ranger project](#ranger-project) <br>
 
 <br>
 <br>
@@ -111,7 +111,16 @@ This is a group project I participated in 2023, University Microcontroller Hacka
 
 
 ### Image classifier
-A group assignment for image classifier using 
+A group assignment for image classifier using neural network. The Keras module is used, the technique is **transfer learning**. We build a few layers on top of trained weights from ImageNet, the goal is to classify 5 classes of flowers - daisy, dandelion, roses, sunflowers and tulips. <br> 
+Below is the key summary of the result: 
+<br>
+<img width="461" alt="截圖 2024-10-16 下午3 32 37" src="https://github.com/user-attachments/assets/c880f147-d3a8-4c60-a9e9-b44d80f238f2">
+<img width="599" alt="截圖 2024-10-16 下午3 33 54" src="https://github.com/user-attachments/assets/a4605d77-95e9-47a2-abb3-5e136b3d2778">
+
+<br>
+
+Some of the key learnings from this project are the tuning and experimentation of **hyperparameter evaluation (learning rates, momentum and Nesterov momentum)** and **value of K in K fold validation**. 
+
 
 ### Ranger project 
 ![IMG_0716](https://github.com/user-attachments/assets/29c85586-9e44-4aee-9402-c6868bc42f3b)
