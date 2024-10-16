@@ -156,7 +156,7 @@ Some of the key learnings from this project are the tuning and experimentation o
 
 
 ### Ranger project 
-This is a group assignment that we were to build a ranger car that drives autonomously and follow a certain task, including line-following, detecting the curvature signs and adjust speed if necessary, detecting the slow zone (marked red for start and green for end of the slow zone) and alternate routes every time in the slow zone, and finally show indicative LEDs for each circumstances (Red for stopping, Green for detection of curvature, Blue for inside the slow zone)<br>
+This is a group assignment that we were to build a ranger car that drives autonomously and follow a certain task, including line-following, detecting the curvature signs and adjust speed if necessary, detecting the slow zone (marked red for start and green for end of the slow zone) and alternate routes every time in the slow zone, and finally show indicative LEDs for each circumstances (Red for stopping, Green for detection of straight line (i.e., error of sensors has been relatively small for a period of time), Blue for inside the slow zone)<br>
 Within the group I am the software lead, who is in charge of writing the main program for the ranger project. I also helped design the PCB for the mainboard. <br> 
 
 ![IMG_0716](https://github.com/user-attachments/assets/29c85586-9e44-4aee-9402-c6868bc42f3b)
