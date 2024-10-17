@@ -88,8 +88,10 @@ https://github.com/user-attachments/assets/5802d643-a07a-4757-a8e1-9934f66427cb
 <br> 
 
 Besides the CPU, I also experimented with making some components. 
+<br>
 
 Systolic array:
+<br>
 <img width="645" alt="截圖 2024-10-15 下午9 48 03" src="https://github.com/user-attachments/assets/3b7487ea-59a6-476c-93c8-9fd561340f73">
 
 <br>
@@ -126,9 +128,11 @@ https://github.com/user-attachments/assets/f11e5c70-1adc-4d61-a27b-47c3893fbf4e
 
 ### Handheld educational assisting device
 This is a group project I participated in 2024, University Microcontroller Hackathon. The theme is "Education and Innovation". <br> 
-Unfortunately I forgot to keep the visual record for this device :( <br>
 
+<img width="406" alt="截圖 2024-10-17 上午10 03 58" src="https://github.com/user-attachments/assets/8a6add1a-a4cd-42dc-b0b5-8268784c2a76">
 
+<br>
+The module is ESP32-S3-EYE, our team implemented several functionalities, including photo taking, microphone input, WIFI transimission. The project was aimed to  
 
 
 ### Hiking rescue model
